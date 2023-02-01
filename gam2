@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>My Cat named "Cotton Tail"</title>
+        <meta charset="utf-8">
+        <a title="Optional at the Persian language Wikipedia, GFDL &lt;http://www.gnu.org/copyleft/fdl.html&gt;, via Wikimedia Commons" href="https://www.youtube.com/watch?v=j5a0jTc9S10&list=PL3KnTfyhrIlcudeMemKd6rZFGDWyK23vx&index=11"><img width="294" alt="White Persian Cat" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/White_Persian_Cat.jpg/512px-White_Persian_Cat.jpg"></a>
+        <a href="https://www.youtube.com/watch?v=j5a0jTc9S10&list=PL3KnTfyhrIlcudeMemKd6rZFGDWyK23vx&index=11"> My Cat</a>
+        
+        <style>
+           
+           h1 {
+               color:rgb(255, 0, 0);
+                text-shadow: 4px 4px #55582d;
+           } body{
+               background-color: rgb(255, 251, 38);
+           } p {color:rgb(255, 157, 0);
+               font-family:"Georgia", "Palatino", serif;
+           }a {
+            text-decoration: none;
+            color:rgb(0, 4, 255);
+            
+        }
+            
+        </style>
+    </head>
+    <body>
+    <h1>My cat</h1>
+    <p><em><strong>"Cotton tail"</strong></em><br>
+    Tail So bright it B L inds you<br>
+    <em><strong>"Cotton tail"</strong></em><br>
+    Cutest cat I've ever seen Today<br>
+    <em><strong>"Cotton tail"</strong></em><br>
+    He is a White Persian Cat<br>
+    <em><strong>"Cotton tail"</strong></em><br>
+    </p><a title="Google, Public domain, via Wikimedia Commons" href="https://www.google.com/"><img width="41" alt="Google Chrome icon (February 2022)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/32px-Google_Chrome_icon_%28February_2022%29.svg.png"></a>
+    </body>
+</html>
